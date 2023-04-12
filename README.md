@@ -3,8 +3,8 @@ A sans-serif font, inspired by 80s Soviet graphic design.
 
 More at https://postsovok.ru/typefaces/neuesoviet
 
-![](https://github.com/zhuravlevb/neuesoviet/specimen/screenshot.png)
-![](https://github.com/zhuravlevb/neuesoviet/specimen/specimen.png)
+![](https://raw.githubusercontent.com/zhuravlevb/neuesoviet/main/specimen/screenshot.png)
+![](https://raw.githubusercontent.com/zhuravlevb/neuesoviet/main/specimen/specimen.png)
 
 This font is based on Rasmus Andersson's Inter typeface, available [here](https://github.com/rsms/inter).
 
